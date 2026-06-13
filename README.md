@@ -11,3 +11,4 @@ Power consumption is so low this design is battery free with a supercap to store
  You can select a text file to read, jump to a specific page, and adjust the font size
  ![back of device](PXL_20260609_154222115.jpg)
  ![front of device](PXL_20260609_154216060.jpg)
+ ![PCB design](Screenshot 2026-06-13 120314.png)
